@@ -42,7 +42,7 @@ namespace LineCamparison
             }
             else if (Result < 0)
             {
-                Console.WriteLine("Second Line is Greater tahn First Line");
+                Console.WriteLine("Second Line is Greater than First Line");
             }
             else
             {
